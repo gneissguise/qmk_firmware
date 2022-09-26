@@ -21,3 +21,6 @@
 [submodule "lib/pico-sdk"]
 	path = lib/pico-sdk
 	url = https://github.com/qmk/pico-sdk.git
+[submodule "users/gneissguise"]
+	path = users/gneissguise
+	url = https://github.com/gneissguise/qmk_keymap
